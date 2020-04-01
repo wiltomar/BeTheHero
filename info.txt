@@ -14,3 +14,12 @@
   * Route Params: Parâmetros utilizados para identificar recursos. Ex.: /users/1 (rota /users/:id).
   * Request Body: Corpo da requisição, utilizado para criar ou alterar recursos.
   */
+  
+  /**
+  *
+  * Sugestões de servidores para deploy:
+  *
+  * Node.js (Heroku, para aplicações pequenas, Digital Ocean (preços 
+  * bons), Amazon AWS, Google Cloud, Microsoft Azure);
+  *
+  * ReactJs Netlify, a
